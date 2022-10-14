@@ -7,5 +7,6 @@
     "sourceMap": true,
     "outDir": "dist"
   },
+  "include": ["src/MODELS/Address"],
   "lib": ["es2015"]
 }
